@@ -1,6 +1,6 @@
 # React-Node.js-Passport-Server
 
-Integrating Google sign-in for registration or login purpose in your Node.js server (creted using [Express Generator](https://expressjs.com/en/starter/generator.html)) using Passport authentication mechanism.
+Integrate Google sign-in for registration or login purpose in your Node.js server (creted using [Express Generator](https://expressjs.com/en/starter/generator.html)) using Passport authentication mechanism.
 
 Client application can be found @ [React-Node.js-Passport-App](https://github.com/BalasubramaniM/react-nodejs-passport-app)
 
@@ -41,7 +41,7 @@ npm start
 
 ## Getting Started
 
-Your app will be available at port 4500. Visit http://localhost:4500 to see your server. Go back to http://localhost:3000 and play with your client app now.
+Your app will be available at port 4500. Visit [http://localhost:4500](http://localhost:4500) to see your server. Go back to [http://localhost:3000](http://localhost:3000) and play with your client app now.
 
 ## Medium Tutorial
 
